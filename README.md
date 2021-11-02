@@ -1,2 +1,2 @@
 # echarts_study
-echarts图标学习
+echarts图表学习
